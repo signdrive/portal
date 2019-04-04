@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="Nouvel Obs" directory_title="Nouvel Obs" description="Actualité politique, sociale ou internationale : informez-vous avec www.nouvelobs.com en temps réel spécialiste de l'information en continu." author="NYTimes" author_email="signdrive@gmail.com" author_location="belgium, USA" 
+screenshot="https://eco.netvibes.com/data/thumbnails/3/4/1/341f38eda02873206c93d8eb10a068c8-64-48.png?v=1345130842" thumbnail="https://eco.netvibes.com/data/thumbnails/3/4/1/341f38eda02873206c93d8eb10a068c8-64-48.png?v=1345130842" height="520" width="320" scrolling="false" singleton="false" category="news" category2="tools">
+
+</ModulePrefs>
+
+<Content type="html"><![CDATA[<center>
+<iframe name="Cbc news" src="https://520r5v-uwa.netvibes.com/widget/frame?uwaUrl=https%3A%2F%2Fuwa%2enetvibes%2ecom%2Fapps%2Fmultifeed%2ephp%3Fprovider%3Dnouvelobs%26title%3DNouvel%2BObs&id=uwa-520r5v-67133&header=1&footer=1&scroller=0&displayEdit=1&autoLaunch=1&useAppCache=0&offlineMode=0&chromeColor=white&widgetDomain=https%3A%2F%2Feco%2enetvibes%2ecom%2Fapps%2Fexport%2Fblog%2F207745%2Fnouvel-obs&readOnly=0" frameborder="0" width="320" scrolling="no" height="460"></iframe>
+<br>
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-3105448404649756";
+/* NTimes */
+google_ad_slot = "6440802863";
+google_ad_width = 320;
+google_ad_height = 50;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center>
+]]>
+</Content>
+</Module>
