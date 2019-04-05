@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs title="CNN" directory_title="CNN" 
+description="CNN.com delivers the latest breaking news and information on the latest top stories, weather, business, entertainment, politics, and more." author="signdrive" author_email="signdrive@gmail.com" author_location="belgium, USA" 
+screenshot="https://eco.netvibes.com/data/thumbnails/c/1/6/c16a5320fa475530d9583c34fd356ef5-64-48.png?v=1345135768" 
+thumbnail="https://eco.netvibes.com/data/thumbnails/c/1/6/c16a5320fa475530d9583c34fd356ef5-64-48.png?v=1345135768" height="520" width="320" scrolling="false" singleton="false" category="news" category2="tools">
+
+</ModulePrefs>
+
+<Content type="html"><![CDATA[<center>
+<iframe name="El Mundo" 
+src="http://52978k-uwa.netvibes.com/widget/frame?uwaUrl=https%3A%2F%2Fuwa%2enetvibes%2ecom%2Fapps%2Fmultifeed%2ephp%3Fprovider%3Dmiso%26url%3Dhttps%253A%252F%252Favatars%2enetvibes%2ecom%252Fmultifeed%252F304514%26title%3DCNN&id=uwa-52978k-18376&header=1&footer=1&scroller=0&displayEdit=1&autoLaunch=1&useAppCache=0&offlineMode=0&chromeColor=white&widgetDomain=http%3A%2F%2Feco%2enetvibes%2ecom%2Fapps%2Fexport%2Fblog%2F304514%2Fcnn&readOnly=0&width=&height=&flashvars=" frameborder="0" width="320" scrolling="no" height="460"></iframe>
+<br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- igoogle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:50px"
+     data-ad-client="ca-pub-3105448404649756"
+     data-ad-slot="1588190639"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-62216314-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-62216314-2');
+</script>
+]]>
+</Content>
+</Module>
